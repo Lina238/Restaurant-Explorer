@@ -11,4 +11,5 @@ Personalization and Customization: The application allows users to customize the
 
 
 
-![Uploading Screenshot (724).png…]()
+
+![Screenshot (724)](https://github.com/Lina238/Restaurant-Explorer/assets/83450184/57bd9844-f735-4dcf-903d-638e449b4e73)
