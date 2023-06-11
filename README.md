@@ -3,10 +3,10 @@ Restaurant Explorer" is a user-friendly desktop application that leverages Tkint
 
 Key Features:
 Intuitive User Interface: The application offers a sleek and intuitive user interface designed with Tkinter, ensuring a seamless user experience.
-Restaurant Recommendations: Users can search for Algerian restaurants based on their preferences and receive a curated list of options tailored to their needs.
+Restaurant Recommendations: Users can search for Algerian (example) restaurants based on their preferences and receive a curated list of options tailored to their needs.
 Location Information: The application provides accurate geolocation details of each restaurant, enabling users to find restaurants near their current location or in a specific area of interest.
 Menu Showcase: Users can access comprehensive menus for each Algerian restaurant, allowing them to explore the variety of dishes offered and make informed dining choices.
-Personalization and Customization: The application allows users to customize their search preferences, save favorite restaurants, and receive personalized recommendations based on their previous interactions.
+
 
 
 
