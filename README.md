@@ -1,4 +1,4 @@
-# Restaurant Explorer: A Desktop Application with Tkinter and AIML Integration
+# Restaurant Explorer: A Desktop Application with Tkinter and AIMA Integration
 Restaurant Explorer" is a user-friendly desktop application that leverages Tkinter, a Python GUI toolkit, and integrates with AIMA (Artificial Intelligence Markup Language). The application utilizes a knowledge base to provide comprehensive information on restaurants of a specific type, such as Algerian cuisine. With this application, users can easily explore and discover Algerian restaurants in their vicinity, along with detailed information on their locations and menus.
 
 Key Features:
